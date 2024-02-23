@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![When Hover](image/desktop.png)
+![When Hover](image/preview/desktop.png)
 <br>
-![When don't Hover](image/laptop.png)
+![When don't Hover](image/preview/laptop.png)
 
 </div>
 
